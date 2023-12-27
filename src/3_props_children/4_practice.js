@@ -5,6 +5,7 @@ function FancyBorder(props) {
         <div className='FancyBorder'>
             {props.children}
         </div>
+      
     )
 }
 
