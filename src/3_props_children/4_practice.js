@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+<h1> 안녕 난 수정 코드야 </h1>
+
 function FancyBorder(props) {
     return (
         <div className='FancyBorder'>
